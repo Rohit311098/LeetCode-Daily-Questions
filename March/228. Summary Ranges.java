@@ -1,3 +1,4 @@
+//TC-O(N)  SC-O(1) 
 class Solution {
     public List<String> summaryRanges(int[] nums) {
         if(nums.length==0)
